@@ -34,7 +34,7 @@ const About = () => {
           {/* resume button */}
 
           <a
-          href="https://github.com/avinashbavana/Resume/raw/main/avinash_resume.pdf"
+          href="/avinash_resume.pdf"
           target="_blank"
           rel="noopener no referrer"
           className="inline-block text-white bg-#8245ec py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-200 hover:[transform:scale(120%)]"
