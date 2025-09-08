@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "add": "^2.0.6",
     "preact": "^10.27.0",
     "prop-types": "^15.8.1",

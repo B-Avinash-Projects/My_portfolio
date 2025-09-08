@@ -168,7 +168,7 @@ export const SkillsInfo = [
       date: "Sept 2022 - may 2026",
       grade: "8.05 CGPA",
       desc: "I am currently pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering at GITAM University, Visakhapatnam. Through my coursework, I am building a strong foundation in programming, software development, and core computer science principles. I have been studying subjects such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I also actively participate in workshops, coding challenges, and technical events, which are helping me strengthen my problem-solving skills and practical knowledge. My journey at GITAM University is playing a key role in shaping my technical expertise and professional growth..",
-      degree: "Master of Computer Applications - MCA",
+      degree: "Bachelor of Technology - B.Tech in Computer Science and Engineering",
     },
     {
       id: 1,
