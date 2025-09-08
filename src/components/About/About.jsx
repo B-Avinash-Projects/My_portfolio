@@ -27,15 +27,14 @@ const About = () => {
           </h3>
 
           <p className="text-gray-400 text-base sm:text-lg md:text-lg mt-8 mb-10 leading-relaxed">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
-            sapiente quasi in atque sequi corporis amet sint corrupti dolorum,
-            velit dolores maxime nisi ut quam id aperiam asperiores nam iste!
+           I am a B.Tech CSE student at GITAM University, currently building my skills in Java, Data Structures & Algorithms, and Frontend Development (HTML, CSS, JavaScript, React). I actively apply my learning through projects and continuous practice to strengthen my technical foundation.
+           I am eager to explore new technologies, solve challenging problems, and gain hands-on experience. My current focus is on improving my development skills and preparing for future opportunities in the software industry.
           </p>
 
           {/* resume button */}
 
           <a
-          href="https://drive.google.com/file/d/15xed6vjcY6d828oYmeAM9JtmUIHfnKm_/view"
+          href="https://github.com/avinashbavana/Resume/raw/main/avinash_resume.pdf"
           target="_blank"
           rel="noopener no referrer"
           className="inline-block text-white bg-#8245ec py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-200 hover:[transform:scale(120%)]"
