@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaInstagram, FaLinkedin, FaDiscord } from 'react-icons/fa';
+import { FaInstagram, FaLinkedin, FaDiscord, FaGithub } from 'react-icons/fa';
 
 const Footer = () => {
 
@@ -40,6 +40,7 @@ const Footer = () => {
             { icon: <FaInstagram />, link: "https://www.instagram.com/alphapowerpath/" },
             { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/avinash-bavana-05ab6b26a/" },
             { icon: <FaDiscord />, link: "https://discord.com/users/Avinashonline" },
+            { icon: <FaGithub />,  link:"https://github.com/avinashbavana"},
           ].map((item, index) => (
             <a
               key={index}

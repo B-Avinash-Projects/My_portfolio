@@ -88,7 +88,7 @@ const Navbar = () => {
         {/* Desktop social links */}
         <div className="hidden md:flex space-x-4">
           <a
-            href="https://github.com/B-Avinash-Projects"
+            href="https://github.com/avinashbavana"
             target="_blank"
             rel="noreferrer"
             className="text-gray-300 hover:text-[#4d2a92]"
@@ -139,7 +139,7 @@ const Navbar = () => {
             ))}
             <div className="flex space-x-5 pt-2">
               <a
-                href="https://github.com/B-Avinash-Projects"
+                href="https://github.com/avinashbavana"
                 target="_blank"
                 rel="noreferrer"
                 className="text-gray-300 hover:text-white"
